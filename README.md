@@ -16,16 +16,6 @@ Experience seamless control, fast escapes, and effortless money collection with 
 | 🏃 Fast Jailbreak Escape     | Get out of prison in seconds               |
 | 🔔 Event Notifications       | Stay updated with in-game alerts           |
 | 🎮 Hotkey Support           | Control script features with customizable keys |
-
----
-
-## ⚙️ Installation
-
-1. Download or clone this repository  
-2. Launch **Roblox** and join the *Jailbreak* game  
-3. Open your preferred exploit/executor (e.g., Synapse X, Krnl)  
-4. Paste the script into the executor and run it  
-
 ---
 
 ## 🚀 Usage
