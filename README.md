@@ -1,34 +1,67 @@
-# 🚓 Roblox Jailbreak Script
+# 🚓 Roblox Jailbreak Script 🚓
 
-A powerful and easy-to-use script for [Roblox Jailbreak](https://www.roblox.com/games/606849621/Jailbreak).  
-Includes auto arrest, teleportation, and basic automation features.
+Welcome to the **Roblox Jailbreak Script** repository — your ultimate tool to enhance and automate gameplay in *Jailbreak*!  
+Experience seamless control, fast escapes, and effortless money collection with this powerful script.
 
-> ⚠️ For educational purposes only. Use at your own risk.
+---
 
-## 💻 Features
+## ✨ Features
 
-- 👮 Auto Arrest Criminals
-- 🚗 Teleport to Player
-- 📦 Simple & Lightweight
+| Feature                     | Description                               |
+|-----------------------------|-------------------------------------------|
+| 💰 Automatic Money Collection | Collect cash effortlessly while you play |
+| 🚪 Auto Door & Safe Unlock   | Instantly open doors and safes            |
+| 🏃 Fast Jailbreak Escape     | Get out of prison in seconds               |
+| 🔔 Event Notifications       | Stay updated with in-game alerts           |
+| 🎮 Hotkey Support           | Control script features with customizable keys |
 
-## 📜 How to Use
+---
 
-1. Copy the code from `script.lua`
-2. Open your Roblox Executor (Synapse X, Fluxus, KRNL, etc.)
-3. Paste the script and execute in Jailbreak
+## ⚙️ Installation
 
-## 🔧 Example Code
+1. Download or clone this repository  
+2. Launch **Roblox** and join the *Jailbreak* game  
+3. Open your preferred exploit/executor (e.g., Synapse X, Krnl)  
+4. Paste the script into the executor and run it  
 
-```lua
--- Auto Arrest Script for Roblox Jailbreak
-for _, player in pairs(game.Players:GetPlayers()) do
-    if player.Team == "Criminals" and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame
-        wait(0.5)
-        local arrestButton = workspace:FindFirstChild("ArrestButton")
-        if arrestButton and arrestButton:FindFirstChild("ClickDetector") then
-            fireclickdetector(arrestButton.ClickDetector)
-        end
-    end
-end
+---
 
+## 🚀 Usage
+
+- Run the script **while in-game**  
+- Follow on-screen prompts or use **hotkeys** for quick actions  
+- Customize settings in the configuration file (if included) for a tailored experience  
+
+---
+
+## 📋 Requirements
+
+- Roblox installed with access to *Jailbreak*  
+- Compatible script executor/exploit (Synapse X, Krnl, etc.)  
+- Stable internet connection (needed for some features)  
+
+---
+
+## ⚠️ Disclaimer
+
+> **Warning:** Using scripts can result in **account bans**.  
+> Use this script **at your own risk**. This project is intended for **educational purposes only** and does **not** promote cheating or unfair play.
+
+---
+
+## 🤝 Contact
+
+Have questions or suggestions? Feel free to reach out!  
+- ✉️ Email: your.email@example.com  
+- 💬 Discord: YourDiscord#1234
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute responsibly.
+
+---
+
+> _Happy Jailbreaking!_ 🔓🎉
