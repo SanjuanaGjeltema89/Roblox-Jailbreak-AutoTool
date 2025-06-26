@@ -36,34 +36,25 @@ Experience seamless control, fast escapes, and effortless money collection with 
 
 ---
 
-## 📋 Requirements
+## 📜 Script Example
 
-- Roblox installed with access to *Jailbreak*  
-- Compatible script executor/exploit (Synapse X, Krnl, etc.)  
-- Stable internet connection (needed for some features)  
+```lua
+-- Roblox Jailbreak Auto Money Collection Script Example
 
----
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local RunService = game:GetService("RunService")
 
-## ⚠️ Disclaimer
+local function collectMoney()
+    for _, money in pairs(workspace:GetChildren()) do
+        if money.Name == "Money" and money:IsA("Part") then
+            money.CFrame = player.Character.HumanoidRootPart.CFrame
+        end
+    end
+end
 
-> **Warning:** Using scripts can result in **account bans**.  
-> Use this script **at your own risk**. This project is intended for **educational purposes only** and does **not** promote cheating or unfair play.
-
----
-
-## 🤝 Contact
-
-Have questions or suggestions? Feel free to reach out!  
-- ✉️ Email: your.email@example.com  
-- 💬 Discord: YourDiscord#1234
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute responsibly.
-
----
-
-> _Happy Jailbreaking!_ 🔓🎉
+RunService.Heartbeat:Connect(function()
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        collectMoney()
+    end
+end)
