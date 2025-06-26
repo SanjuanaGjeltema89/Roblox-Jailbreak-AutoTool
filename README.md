@@ -26,15 +26,6 @@ Experience smooth automation, lightning-fast escapes, and effortless cash collec
 
 ---
 
-## ⚙️ Installation
-
-1. Download or clone this repository  
-2. Launch **Roblox** and join the *Jailbreak* game  
-3. Open your preferred exploit/executor (e.g., Synapse X, Krnl)  
-4. Paste the script into the executor and run it  
-
----
-
 ## 🚀 Usage
 
 - Run the script **while in-game**  
